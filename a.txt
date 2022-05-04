@@ -1,0 +1,1 @@
+mongodb+srv://molly:<password>@cluster0.5rb3e.gcp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
